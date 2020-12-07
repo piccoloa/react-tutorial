@@ -1,0 +1,16 @@
+
+ main directories
+
+├── README.md
+├── node_modules
+├── package-lock.json
+├── package.json
+├── public #contains index.html which runs react objects
+├── src  #contains all react code
+└── structure.txt
+
+src/
+├── App.js #react component for main app
+├── Table.js # react component
+├── index.css 
+└── index.js #imports React, ReactDOM, and the CSS file
